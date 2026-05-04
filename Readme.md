@@ -1,55 +1,48 @@
-<!--
-  sirmir25 – System Programmer & DevOps Engineer
-  This README is automatically displayed on your GitHub profile.
--->
+# ⚙️ sirmir25
 
-<h1 align="center">⚙️ sirmir25</h1>
-<p align="center">
-  <strong>System Programmer & DevOps Engineer</strong><br>
-  Linux · Rust · Kubernetes · Automation
-</p>
+**System Programmer & DevOps Engineer**  
+Linux · Rust · Kubernetes · Automation
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Cloud-K8s-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a">
-</p>
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![K8s](https://img.shields.io/badge/Cloud-K8s-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
-I'm a Linux enthusiast and systems engineer who believes that **understanding your operating system is the first step to mastering any infrastructure**.  
+I'm a Linux enthusiast and systems engineer who believes that **understanding your operating system is the first step to mastering any infrastructure.**  
 I automate everything that can be automated, harden what can't, and always look for the most efficient solution.
 
-- 🔭 **Currently working on:** Cloud architectures, Kubernetes orchestration, and security automation  
-- 🌱 **Learning:** Advanced Kubernetes operators and eBPF  
-- 🎯 **2026 goals:** Contribute to more open-source systems projects  
-- 💬 **Ask me about:** Arch Linux, Rust, Docker, CI/CD pipelines, system hardening  
-- 📫 **Reach me:** [Telegram @linuxexex](https://t.me/linuxexex)  
-- ⚡ **Fun fact:** I run Arch on my daily driver and I'm not afraid of `systemd`.
+- 🔭 **Currently working on:** Cloud architectures, Kubernetes orchestration, and security automation
+- 🌱 **Learning:** Advanced Kubernetes operators and eBPF
+- 🎯 **2026 goals:** Contribute to more open-source systems projects
+- 💬 **Ask me about:** Arch Linux, Rust, Docker, CI/CD pipelines, system hardening
+- 📫 **Reach me:** [Telegram @linuxexex](https://t.me/linuxexex)
+- 📍 **Location:** Billings, Montana, USA
+- ⚡ **Fun fact:** I run Arch on my daily driver and I'm not afraid of `systemd`
 
 ---
 
-## 🧠 Tech stack
+## 🧠 Tech Stack
 
-| Category           | Tools & languages                                                                               |
-|--------------------|-------------------------------------------------------------------------------------------------|
-| **OS**             | Arch Linux, macOS, Android, iOS                                                                 |
-| **Languages**      | Rust, C, C++, Python, Bash, PowerShell, TypeScript, JavaScript, Java, Ruby, C#                 |
-| **DevOps**         | Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI                                   |
-| **Infra as code**  | YAML, JSON, Terraform (learning)                                                                |
-| **Monitoring**     | Prometheus, Grafana, system logs, `htop`, `bpftrace`                                            |
-| **Security**       | Linux hardening, AppArmor, firewalls, SSH security, auditd                                      |
+| Category | Tools & Languages |
+|---|---|
+| **OS** | Arch Linux, macOS, Android, iOS |
+| **Languages** | Rust, C, C++, Python, Bash, PowerShell, TypeScript, JavaScript, Java, Ruby, C# |
+| **DevOps** | Docker, Docker Compose, Kubernetes, GitHub Actions, GitLab CI |
+| **Infra as Code** | YAML, JSON, Terraform (learning) |
+| **Monitoring** | Prometheus, Grafana, system logs, `htop`, `bpftrace` |
+| **Security** | Linux hardening, AppArmor, firewalls, SSH security, auditd |
 
 ---
 
-## 🌟 Featured project
+## 🌟 Featured Project
 
-### [🗣️ Rach programming language](https://github.com/sirmir25/Rach)
+### [🗣️ Rach Programming Language](https://github.com/sirmir25/Rach)
 
 A **simple, Turing-complete scripting language** implemented in Rust.
 
@@ -61,35 +54,32 @@ A **simple, Turing-complete scripting language** implemented in Rust.
 
 ---
 
-## 📈 GitHub analytics
+## 📈 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirmir25&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmir25&layout=compact&hide_border=true&theme=radical" />
-</div>
+![sirmir25's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirmir25&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmir25&layout=compact&hide_border=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sirmir25&theme=radical&no-frame=true&row=1&column=7" />
-</div>
+![Trophy](https://github-profile-trophy.vercel.app/?username=sirmir25&theme=radical&no-frame=true&row=1&column=7)
 
 ---
 
-## 🧰 Current focus
+## 🧰 Current Focus
 
-- ☁️ **Cloud native** – going beyond Docker into full Kubernetes clusters  
-- 📦 **Package management** – building AUR packages and Debian repos  
-- 🛡️ **Zero‑trust security** – implementing for personal and client infrastructure  
-- 🤖 **Automation scripts** – filling my GitHub with reusable, well‑documented tools  
+- ☁️ **Cloud native** – going beyond Docker into full Kubernetes clusters
+- 📦 **Package management** – building AUR packages and Debian repos
+- 🛡️ **Zero-trust security** – implementing for personal and client infrastructure
+- 🤖 **Automation scripts** – filling my GitHub with reusable, well-documented tools
 
 ---
 
-<p align="center">
-  <i>"Knowledge of Linux isn't just a skill – it's a philosophy of efficiency and control."</i><br>
-  — sirmir25
-</p>
+## 📬 Contact
 
-<details>
-<summary>📌 Quick commands</summary>
+| Platform | Link |
+|---|---|
+| 💬 Telegram | [@linuxexex](https://t.me/linuxexex) |
+| 🐙 GitHub | [sirmir25](https://github.com/sirmir25) |
+
+---
 
 ```bash
 # Show my most used tools
@@ -97,3 +87,9 @@ echo "Rust · Docker · K8s · Arch · Bash"
 
 # Contact me
 telegram @linuxexex
+```
+
+---
+
+*"Knowledge of Linux isn't just a skill – it's a philosophy of efficiency and control."*  
+**— sirmir25**
