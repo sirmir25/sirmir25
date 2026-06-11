@@ -13,21 +13,27 @@ should be added. Changes here are edits to the profile presentation.
 ## Structure
 
 - `Readme.md` — the entire repository. A profile card for sirmir25 (systems
-  programmer / DevOps engineer) written as raw HTML with an embedded `<style>`
-  block: hero header, badge row, about/stack cards, a featured-project section
-  (the "Rach" programming language), stats, current-focus list, a fake
-  terminal session, contact links (Telegram `@linuxexex`, GitHub `sirmir25`),
-  and a footer.
+  programmer / DevOps engineer) built from GitHub-renderable Markdown/HTML and
+  external image services: capsule-render header/footer waves, a
+  readme-typing-svg tagline, shields.io badges for the stack, repo pin cards
+  and stats/streak/top-langs cards from github-readme-stats and
+  streak-stats.demolab.com, github-profile-trophy, an activity graph, a
+  komarev profile-views counter, a fake terminal as a fenced `console` code
+  block, and contact links (Telegram `@linuxexex`, GitHub `sirmir25`).
 
 ## Key constraints and conventions
 
 - **GitHub strips `<style>` tags and `class`/`style`-based CSS** when
-  rendering README files. The current file is written as styled HTML, so most
-  of its visual design does not survive GitHub's sanitizer — only the text
-  content and links render. Keep this in mind before adding more CSS-dependent
-  markup; if asked to make the profile actually look styled on GitHub, the
-  reliable techniques are Markdown, allowed HTML tags (`<img>`, `<table>`,
-  `<details>`, `align` attributes), shields.io badges, and SVG images.
+  rendering README files. That's why the README uses image services and
+  allowed HTML (`<img>`, `<div align>`, tables, blockquotes) instead of CSS —
+  keep new additions within those techniques.
+- Badge style is uniform: `style=for-the-badge`, background `0d1520`,
+  `logoColor=4ade80`; stat-card services are themed with the same palette via
+  URL parameters (`bg_color=0d1520`, `title_color=4ade80`,
+  `border_color=1e2a3a`, `text_color=e2e8f0`/`94a3b8`).
+- Pinned repo cards reference real repositories under the `sirmir25` account
+  (`Rach`, `DevTools`, `vpnlaunch`, `JakeLinux`) — verify a repo exists before
+  adding a new pin card, otherwise the card renders an error.
 - The file is named `Readme.md` (not `README.md`). Keep that casing when
   referencing or replacing it.
 - Visual theme, if preserving the design intent: dark background (`#080c10`),
